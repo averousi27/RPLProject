@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\bin\Debug\LBE_new.exe.config
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\bin\Debug\LBE_new.exe
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\bin\Debug\LBE_new.pdb
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\obj\Debug\LBE_new.Properties.Resources.resources
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\obj\Debug\LBE_new.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\obj\Debug\LBE_new.exe
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\obj\Debug\LBE_new.pdb
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\obj\Debug\LBE_new.Form2.resources
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\obj\Debug\LBE_new.Form3.resources
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\obj\Debug\LBE_new.Form4.resources
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\obj\Debug\LBE_new.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\bin\Debug\Database1.sdf
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\obj\Debug\LBE_new.Form5.resources
+C:\Users\user\Desktop\NEW PROJECT LBE\LBE_new\LBE_new\obj\Debug\LBE_new.MenuUtama.resources
